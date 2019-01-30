@@ -1,6 +1,6 @@
 {
   "title": "Hello ZeroMQ",
-  "description": "Hello World example using czmq",
+  "description": "Hello World using CZMQ",
   "details": {
     "steps": [
       {
@@ -27,6 +27,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "kubernetes"
+    "imageid": "docker"
   }
 }
